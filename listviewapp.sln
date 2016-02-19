@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "listviewapp", "listviewapp\listviewapp.csproj", "{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Debug|iPhone.Build.0 = Debug|iPhone
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Release|iPhone.ActiveCfg = Release|iPhone
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Release|iPhone.Build.0 = Release|iPhone
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{126B37E2-5B0B-4D46-B591-BC9A7F8D7702}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+EndGlobal
